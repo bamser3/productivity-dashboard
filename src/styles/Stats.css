@@ -1,0 +1,20 @@
+.indicator {
+  background-color: antiquewhite;
+  max-width: 700px;
+  margin: 16px auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0px;
+  flex-direction: column;
+
+  text-align: center;
+  color: #272525;
+  border-radius: 8px;
+  padding: 8px 12px;
+}
+
+.percentage {
+  font-size: 50px;
+}

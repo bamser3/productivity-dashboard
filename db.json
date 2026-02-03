@@ -1,0 +1,94 @@
+{
+  "tasks": [
+    {
+      "id": "t1",
+      "title": "Finish project proposal",
+      "description": "Write and submit the project proposal to management.",
+      "startDate": "2026-02-01",
+      "endDate": "2026-02-05",
+      "status": "Not Started",
+      "completed": false
+    },
+    {
+      "id": "t2",
+      "title": "Team meeting",
+      "description": "Weekly sync-up with the development team.",
+      "startDate": "2026-02-02",
+      "endDate": "2026-02-02",
+      "status": "Completed",
+      "completed": true
+    },
+    {
+      "id": "t3",
+      "title": "Design mockups",
+      "description": "Create UI mockups for the new feature.",
+      "startDate": "2026-02-03",
+      "endDate": "2026-02-10",
+      "status": "In Progress",
+      "completed": false
+    },
+    {
+      "id": "t4",
+      "title": "Client feedback review",
+      "description": "Review feedback received from the client.",
+      "startDate": "2026-02-04",
+      "endDate": "2026-02-06",
+      "status": "Not Started",
+      "completed": false
+    },
+    {
+      "id": "t5",
+      "title": "Update documentation",
+      "description": "Update API and user documentation.",
+      "startDate": "2026-02-05",
+      "endDate": "2026-02-08",
+      "status": "In Progress",
+      "completed": false
+    },
+    {
+      "id": "t6",
+      "title": "Code review",
+      "description": "Review pull requests in the repository.",
+      "startDate": "2026-02-06",
+      "endDate": "2026-02-07",
+      "status": "Completed",
+      "completed": true
+    },
+    {
+      "id": "t7",
+      "title": "Deploy to staging",
+      "description": "Deploy latest changes to the staging environment.",
+      "startDate": "2026-02-07",
+      "endDate": "2026-02-09",
+      "status": "Not Started",
+      "completed": false
+    },
+    {
+      "id": "t8",
+      "title": "User testing",
+      "description": "Conduct user testing sessions for the new feature.",
+      "startDate": "2026-02-08",
+      "endDate": "2026-02-12",
+      "status": "In Progress",
+      "completed": false
+    },
+    {
+      "id": "t9",
+      "title": "Bug fixing",
+      "description": "Fix reported bugs from QA team.",
+      "startDate": "2026-02-09",
+      "endDate": "2026-02-11",
+      "status": "Not Started",
+      "completed": false
+    },
+    {
+      "id": "t10",
+      "title": "Prepare presentation",
+      "description": "Prepare slides for the upcoming project presentation.",
+      "startDate": "2026-02-10",
+      "endDate": "2026-02-15",
+      "status": "Completed",
+      "completed": true
+    }
+  ]
+}

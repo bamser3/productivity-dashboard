@@ -1,0 +1,36 @@
+.main-container {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  color: white;
+  font-family: inherit;
+}
+
+.dashboard h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.dashboard-summary {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.summary-card {
+  flex: 1 1 180px;
+  background-color: #7b7979;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+.dashboard-task-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 15px;
+  width: 100%;
+}

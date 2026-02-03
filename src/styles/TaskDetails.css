@@ -1,0 +1,19 @@
+.task-details {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #1a1a1a;
+  border-radius: 8px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.task-details h1 {
+  font-size: 1.8rem;
+}
+
+.task-details p {
+  font-size: 1rem;
+}
